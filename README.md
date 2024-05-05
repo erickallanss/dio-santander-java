@@ -11,7 +11,7 @@ O programa ContaBanco permite ao usuário inserir os dados de uma conta bancári
 1. Clone este repositório para sua máquina local.
 
 ```bash
-git clone https://github.com/seu-usuario/ContaBanco.git
+git clone https://github.com/erickallanss/dio-santander-java.git
 
 cd ContaBanco
 
